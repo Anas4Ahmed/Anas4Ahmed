@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Anas4Ahmed
-- 👀 I’m interested in Programming ,Web developments, cybersecurity,Ethical Hacking...
-- 🌱 I’m currently learning programming,web development and ECH v12...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m MD Anas Ahmed
+- 👀 I’m interested in Programming ,Web developments, Robotics, Cybersecurity, Ethical Hacking.
+- 🌱 I’m currently learning programming,web development and ECH v12.
 - 📫 How to reach me: https://in.linkedin.com/in/anas-ahmed-a32093280
 
 <!---
