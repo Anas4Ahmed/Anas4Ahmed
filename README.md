@@ -9,7 +9,7 @@
 
 <div align="center">
 
-# <img src="https://img.icons8.com/?size=200&id=23264&format=png&color=00eaff" width="36"/> **MD ANAS AHMED — CYBER OPS UNIT**
+# <img src="https://img.icons8.com/?size=200&id=23264&format=png&color=00eaff" width="36"/> **MD ANAS AHMED PROFILE**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=32&duration=2600&color=00E5FF&center=true&vCenter=true&width=680&lines=👨‍💻+MD+Anas+Ahmed...;🛡️+Cybersecurity+Engineer...;🤖+IoT+%26+Robotics+Developer...;🔧+Embedded+Systems+%26+AI+Automation...;🚀+Building+Future+Tech+Modules..." />
 
