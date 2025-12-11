@@ -19,13 +19,13 @@
 # 🚀 **PROGRAMMING LANGUAGES**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css" width="900" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="120" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="120" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="120" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="80" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="80" />
 </p>
 
 ---
@@ -33,18 +33,18 @@
 # 🛡️ **CYBERSECURITY STACK**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,git,github" width="900" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,powershell,git,github" width="500" />
 </p>
 
 # 🌐 **WEB DEVELOPMENT & CLOUD**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,aws,cloudflare" width="900" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,aws,cloudflare" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="120" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="120" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="80" />
 </p>
 
 ---
@@ -52,21 +52,21 @@
 # 🤖 **ROBOTICS & EMBEDDED SYSTEMS**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker" width="500" />
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="120" />
-  <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="120" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" />
+  <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="80" />
 </p>
 
 # 🧠 **AI / MACHINE LEARNING**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" width="500" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" width="350" />
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="120" />
-  <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="120" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="80" />
+  <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="80" />
 </p>
