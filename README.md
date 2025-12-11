@@ -48,12 +48,11 @@
 ## 🌐 **WEB DEVELOPMENT & CLOUD**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,aws,cloudflare" width="500" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,aws,cloudflare,html,css,js" width="500" />
 </p>
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="120" />
-  <img src="https://techstack-generator.vercel.app/firebase-icon.svg" width="120" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="120" />
 </p>
 
@@ -68,18 +67,6 @@
 <p align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="120" />
   <img src="https://techstack-generator.vercel.app/linux-icon.svg" width="120" />
-</p>
-
----
-## 🧠 **AI / MACHINE LEARNING**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="120" />
-  <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" width="120" />
 </p>
 
 ---
