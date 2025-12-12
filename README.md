@@ -26,7 +26,7 @@
 ## 🚀 **PROGRAMMING LANGUAGES**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" width="500" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" width="500" />
 </p>
 
 <p align="center">
